@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2023-01-10T03:24:00Z
+N;CHARSET=utf-8:HUỲNH MINH THIỆN;;;;
+FN;CHARSET=utf-8:HUỲNH MINH THIỆN
+ORG;CHARSET=utf-8:Công ty Cổ phần Truyền thông Đa phương tiện Wow
+TITLE;CHARSET=utf-8:Co-founder
+ROLE;CHARSET=utf-8:Co-founder
+EMAIL;INTERNET:production@wowmultimedia.vn
+TEL;PREF;WORK:0909994478
+TEL;WORK:
+ADR;WORK;POSTAL;CHARSET=utf-8:87 - 89 Hồ Bá Kiện, Phường 15, Quận 10, TP.HC
+ M;;;;;;
+URL;TYPE=Profile:https://drive.google.com/file/d/1iv9sKRmnusIq1KBt_9wuzFA-m2mdeQOA/view
+URL;TYPE=Website:wowmultimedia.vn
+URL;TYPE=Website:
+URL;TYPE=Facebook:fb://profile/https://www.facebook.com/anthony.huynh.2902
+URL;TYPE=Zalo:https://zalo.me/0909994478
+URL;TYPE=Telegram:https://telegram.me/+84909994478
+URL;TYPE=Viber:viber://chat?number=+84909994478
+END:VCARD

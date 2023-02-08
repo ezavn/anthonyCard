@@ -57,18 +57,18 @@ function App() {
             </div>
             <div className="card-social">
               <a
-                href="https://www.facebook.com/thuc.doan.5?mibextid=LQQJ4d"
+                href="https://www.facebook.com/anthony.huynh.2902"
                 target="_blank"
               >
                 <img src="/icons/facebook.png" alt="" />
               </a>
-              <a href="http://zalo.me/0778206885" target="_blank">
+              <a href="http://zalo.me/0909994478" target="_blank">
                 <img src="/icons/zalo.png" alt="" />
               </a>
-              <a href="viber://add?number=84778206885">
+              <a href="viber://add?number=84909994478">
                 <img src="/icons/viber.png" alt="" />
               </a>
-              <a href="mailto:media@wowmultimedia.vn">
+              <a href="mailto:production@wowmultimedia.vn">
                 <img src="/icons/mail.png" alt="" />
               </a>
             </div>
@@ -112,11 +112,7 @@ function App() {
         </div>
       </div>
       <div className="wrapper">
-        <a
-          className="btn-download"
-          href="/files/le-thuy-thuc-doan.vcf"
-          download
-        >
+        <a className="btn-download" href="/files/huynh-minh-thien.vcf" download>
           Lưu danh bạ
         </a>
       </div>
